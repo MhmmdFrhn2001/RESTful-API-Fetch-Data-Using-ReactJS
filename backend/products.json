@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "PlayStation 5 Pro",
+        "description": "Play PS5® games with the most impressive visuals ever possible on a PlayStation console.",
+        "price": 9.99,
+        "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-pro-dualsense-image-block-01-en-18sep24?$1600px$"
+    },
+    {
+        "id": 2,
+        "name": "DualSense™ Wireless Controller",
+        "description": "Immerse yourself in the gaming experience with a controller the supports responsive haptic feedback and dynamic trigger effects.",
+        "price": 19.99,
+        "image": "https://gmedia.playstation.com/is/image/SIEPDC/dualsense-range-stacked-image-block-01-en-11feb22?$1600px$"
+    },
+    {
+        "id": 3,
+        "name": "PULSE Elite™ Wireless Headset",
+        "description": "Enjoy lifelike gaming audio in a comfortable headset design equipped with a retractable microphone and built-in long-life battery.",
+        "price": 19.99,
+        "image": "https://gmedia.playstation.com/is/image/SIEPDC/PULSE-Elite-headset-thumbnail-01-en-08sep23?$1600px$"
+    },
+    {
+        "id": 4,
+        "name": "PULSE Explore™ Wireless Earbuds",
+        "description": "Enjoy lifelike gaming audio wherever play takes you with a portable design equipped with hidden microphones and a companion charging case.",
+        "price": 19.99,
+        "image": "https://gmedia.playstation.com/is/image/SIEPDC/PULSE-Explore-earbuds-image-block-01-en-08sep23?$1600px$"
+    },
+    {
+        "id": 5,
+        "name": "DualSense Edge™ Wireless Controller",
+        "description": "Get an edge in gameplay with remappable buttons, tuneable triggers and sticks, changeable stick caps, back buttons, and more",
+        "price": 19.99,
+        "image": "https://gmedia.playstation.com/is/image/SIEPDC/dualsense-edge-featured-hardware-image-block-01-en-11aug23?$1600px$"
+    },
+    {
+        "id": 6,
+        "name": "Access™ Controller",
+        "description": "A highly customisable PlayStation®5 controller kit designed to make gaming more accessible.",
+        "price": 19.99,
+        "image": "https://gmedia.playstation.com/is/image/SIEPDC/access-controller-featured-hardware-image-block-01-en-12oct23?$1600px$"
+    },
+    {
+        "id": 7,
+        "name": "HD Camera",
+        "description": "Add yourself to your gameplay videos and broadcasts with smooth, sharp, full-HD capture.",
+        "price": 19.99,
+        "image": "https://gmedia.playstation.com/is/image/SIEPDC/hd-camera-featured-hardware-image-block-01-en-11aug23?$1600px$"
+    }
+]
